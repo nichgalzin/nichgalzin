@@ -4,7 +4,7 @@
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/nichgalzin/">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/nichgalzin">
     <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
