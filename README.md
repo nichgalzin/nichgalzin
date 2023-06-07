@@ -11,6 +11,7 @@
   <div align='center'>
     <h1>Hi, my name is Nich Galzin</h1> 
     <p><em>I'm a front end web developer base in London</em></p>
+    <p>
   </div>
 
   ## At a glance:
