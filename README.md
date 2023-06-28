@@ -16,12 +16,12 @@
 
   ## At a glance:
 
-- 🔭 I’m currently working on: The foundation course at [FAC](https://www.foundersandcoders.com/)
+- 🔭 I’m currently working on: The foundation course at [Founders and Coders](https://www.foundersandcoders.com/)
 - 🌱 I’m currently learning: Building web apps using API's and depolying with AWS.
-- ✨ I like exploring: The line between technology and art, and experimenting with creativity.
-- 😄 Pronouns: (he/they)
+- ✨ I like exploring: The line between technology and art, and finding new outlets for creativity.
 - ⚡ Fun fact: I used to be a circus acrobat.
- - 💬 Ask me about: How to make things look good on the web, or how to do a handstand.
+- 😄 Pronouns: (he/they)
+ - 💬 Ask me about: How to make the web beautiful, or how to do a handstand.
  - See my work at my landing page - [here](https://nichgalzin.github.io/about-me/)
 
   
