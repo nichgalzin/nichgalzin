@@ -16,12 +16,12 @@
 
   ## At a glance:
 
-- 🔭 I’m currently working on: The foundation course at [Founders and Coders](https://www.foundersandcoders.com/)
-- 🌱 I’m currently learning: Building web apps using API's and depolying with AWS.
+- 🔭 I’m a software devloper at [Founders and Coders](https://www.foundersandcoders.com/)
+- 🌱 I’m currently learning: Full stack web dev with Next.js
 - ✨ I like exploring: The line between technology and art, and finding new outlets for creativity.
 - ⚡ Fun fact: I used to be a circus acrobat.
 - 😄 Pronouns: (he/they)
- - 💬 Ask me about: How to make the web beautiful, or how to do a handstand.
+ - 💬 Ask me about: How to make the web beautiful, I'm a CSS nerd. Or how to do a handstand if you're more adventurous.
  - See my work at my landing page - [here](https://nichgalzin.github.io/about-me/)
 
   
@@ -30,10 +30,12 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"       title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" **alt="Node" width="80" height="80"/>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next" width="80" eight="80" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" **alt="Node" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;  
 </div>
  
 ## A deeper dive:
