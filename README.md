@@ -10,7 +10,7 @@
 </div>
   <div align='center'>
     <h1>Hi, my name is Nich Galzin</h1> 
-    <p><em>I'm a web developer and creative coder base in London</em></p>
+    <p><em>I'm a web developer and creative coder based in London</em></p>
     <p>
   </div>
 
