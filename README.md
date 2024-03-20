@@ -16,8 +16,8 @@
 
   ## At a glance:
 
-- 🔭 I’m a software devloper at [Founders and Coders](https://www.foundersandcoders.com/)
-- 🌱 I’m currently learning: Full stack web dev with Next.js
+- 🔭 I’m a software developer at [Founders and Coders](https://www.foundersandcoders.com/)
+- 🌱 I’m currently working on: Kindly, a platform for supporting Ukrainian refugees. 
 - ✨ I like exploring: The line between technology and art, and finding new outlets for creativity.
 - ⚡ Fun fact: I used to be a circus acrobat.
 - 😄 Pronouns: (he/they)
