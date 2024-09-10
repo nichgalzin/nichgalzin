@@ -10,7 +10,7 @@
 </div>
   <div align='center'>
     <h1>Hi, my name is Nich Galzin</h1> 
-    <p><em>I'm a web developer and creative coder based in London</em></p>
+    <p><em>I'm a full-stack developer and creative coder based in London</em></p>
     <p>
   </div>
 
@@ -18,7 +18,7 @@
 
 - 🔭 I’m a software developer at [Founders and Coders](https://www.foundersandcoders.com/)
 - 🌱 I’m currently working on: Kindly, a platform for supporting Ukrainian refugees. 
-- ✨ I like exploring: The line between technology and art, and finding new outlets for creativity.
+- ✨ I like exploring: the line between technology and art, and finding new outlets for creativity.
 - ⚡ Fun fact: I used to be a circus acrobat.
 - 😄 Pronouns: (he/they)
  - 💬 Ask me about: How to make the web beautiful, I'm a CSS nerd. Or how to do a handstand if you're more adventurous.
@@ -27,13 +27,16 @@
   
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"       title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next" width="80" eight="80" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" **alt="Node" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="80" height="80"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="80" height="80"/>&nbsp; 
+
 </div>
  
 ## A deeper dive:
