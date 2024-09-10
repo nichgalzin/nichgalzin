@@ -22,8 +22,6 @@
 - ⚡ Fun fact: I used to be a circus acrobat.
 - 😄 Pronouns: (he/they)
  - 💬 Ask me about: How to make the web beautiful, I'm a CSS nerd. Or how to do a handstand if you're more adventurous.
- - See my work at my landing page - [here](https://nichgalzin.github.io/about-me/)
-
   
 ## :hammer_and_wrench: Languages and Tools :
   
@@ -42,7 +40,7 @@
   - Passionate programmer: I am deeply dedicated to programming and constantly strive to improve my skills and stay up-to-date with the latest technologies.
   - Effective communicator: I strive to be a compassionate communicator and an active listener.
   - Design enthusiast: I have a keen eye for aesthetics and take great pleasure in creating visually appealing designs that enhance the overall user experience.
-- Positive team member: I thrive in team environments, fostering a positive and collaborative atmosphere where everyone feels valued and motivated to achieve common goals.
+  - Positive team member: I thrive in team environments, fostering a positive and collaborative atmosphere where everyone feels valued and motivated to achieve common goals.
   
   
  
